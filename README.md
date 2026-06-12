@@ -1,6 +1,3 @@
-# Dynamic-Notch-for-Smartwatches
-A modern UI/UX concept adapting the "Dynamic Notch" notification system for circular smartwatches.
-GitHub repository'nin ana sayfası için yukarıda hazırladığım İngilizce metni, kod bloğu olmadan, doğrudan kopyalayıp yapıştırabileceğin normal düz metin haliyle aşağıda bulabilirsin:
 
 Smartwatch Dynamic Notch UI Concept
 A modern, fluid, and non-intrusive "Dynamic Notch" user interface concept designed specifically for circular smartwatches.
